@@ -18,6 +18,9 @@
 6. Pull request:
 <img width="1857" height="625" alt="image" src="https://github.com/user-attachments/assets/710b484b-1db7-4ca2-a31d-d003451b25e6" />
 
+# OBS:
+- A criação do projeto foi inteiramente feita pelo Git Bash
+
 
 
 
