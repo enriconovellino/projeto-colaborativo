@@ -15,6 +15,10 @@
 5. Subindo as alterações do arquivo:
 <img width="711" height="314" alt="image" src="https://github.com/user-attachments/assets/f677ce0c-8cb5-4b2a-a7cb-b4b80d6b5c5f" />
 
+6. Pull request:
+<img width="1857" height="625" alt="image" src="https://github.com/user-attachments/assets/710b484b-1db7-4ca2-a31d-d003451b25e6" />
+
+
 
 
 
